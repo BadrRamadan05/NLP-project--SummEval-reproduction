@@ -2,6 +2,7 @@
 
 # Reproducing SummEval: Re-evaluating Summarization Evaluation
 ### ReproNLP 2026 — Track A Reproduction Report
+### Group: Badr Ramadan | Vishal Wagh
 **GEM 2026 Workshop — 5th Generation, Evaluation & Metrics Workshop**
 
 ---
